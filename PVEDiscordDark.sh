@@ -15,7 +15,7 @@ CHECKMARK='\033[0;32m\xE2\x9C\x94\033[0m'
 TEMPLATE_FILE="/usr/share/pve-manager/index.html.tpl"
 SCRIPTPATH="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/$(basename "${BASH_SOURCE[0]}")"
 
-REPO=${REPO:-"Weilbyte/PVEDiscordDark"}
+REPO=${REPO:-"hynet-mel/PVEDiscordDark"}
 DEFAULT_TAG="master"
 TAG=${TAG:-$DEFAULT_TAG}
 BASE_URL="https://raw.githubusercontent.com/$REPO/$TAG"
