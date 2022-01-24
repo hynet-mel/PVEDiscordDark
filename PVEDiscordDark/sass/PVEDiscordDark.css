@@ -264,7 +264,7 @@
 
 .x-btn-disabled {
   background-image: none;
-  background-color: rgba(250, 172, 172, 0.7) !important; }
+  background-color: rgba(250, 172, 172, 0.5) !important; }
 
 .x-btn-icon-el.x-btn-icon-el-default-toolbar-small.fa.fa-undo, .x-btn-icon-el.x-btn-icon-el-default-toolbar-small.fa.fa-terminal, .x-btn-icon-el.x-btn-icon-el-default-toolbar-small.fa.fa-send-o, .x-btn-icon-el.x-btn-icon-el-default-toolbar-small.fa.fa-fw.fa-ellipsis-v, .x-btn-icon-el.x-btn-icon-el-default-toolbar-small.fa.fa-refresh {
   color: #fff; }
@@ -302,7 +302,7 @@
   border-color: #23272a; }
 
 .x-tab {
-  background: rgba(250, 172, 172, 0.7);
+  background: rgba(250, 172, 172, 0.5);
   color: #fff;
   border-width: 0; }
 
@@ -329,7 +329,7 @@
   background: #23272a; }
 
 .x-tab-disabled {
-  background: rgba(250, 172, 172, 0.7) !important; }
+  background: rgba(250, 172, 172, 0.5) !important; }
 
 .x-window-body {
   background: #23272a;
